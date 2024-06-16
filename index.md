@@ -2,28 +2,15 @@
 
 ---
 
-### Category Name 1 
+### AI Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### ARTIS: AI-Powered Voice-Activated Assistant
+[View Project](https://github.com/Chauncey-Robinson/ARTIS-Project)
+<img src="images/artis-project-thumbnail.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+The ARTIS project involves creating an AI-powered voice-activated assistant designed to enhance the operational efficiency and safety of astronauts. The assistant integrates with external data sources such as NASA's APIs and includes various features like data preprocessing, model training, real-time predictions, and more.
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
