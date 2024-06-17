@@ -1,13 +1,7 @@
-title: Chauncey Robinson Portfolio # your name (or website title) here
-logo: "/images/1621449376476.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description
-  <br><br>
-  Second description
-  <br><br>
-  <a href="https://www.linkedin.com/in/chauncey/">View My LinkedIn Profile</a> 
-  
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+title: Chauncey Robinson Portfolio
+logo: "/images/1621449376476.jpg?raw=true"
+description: >
+  The ARTIS project involves creating an AI-powered voice-activated assistant designed to enhance the operational efficiency and safety of astronauts. The assistant integrates with external data sources such as NASA's APIs and includes various features like data preprocessing, model training, real-time predictions, and more.
+linkedin: https://www.linkedin.com/in/chauncey-robinson
+github: https://github.com/Chauncey-Robinson
+
